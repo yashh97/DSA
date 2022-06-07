@@ -1,4 +1,4 @@
-package com.learn.sorting;
+package com.learn.algorithms.sorting;
 
 public class MergeSort {
 

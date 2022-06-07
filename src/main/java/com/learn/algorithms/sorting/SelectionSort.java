@@ -1,6 +1,6 @@
-package com.learn.sorting;
+package com.learn.algorithms.sorting;
 
-import static com.learn.sorting.BubbleSort.swap;
+import static com.learn.algorithms.sorting.BubbleSort.swap;
 
 import java.util.Arrays;
 

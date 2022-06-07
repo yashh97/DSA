@@ -1,4 +1,4 @@
-package com.learn.recursion;
+package com.learn.algorithms.recursion;
 
 public class PowerSetOfString {
 
